@@ -20,5 +20,3 @@ Research interests
 - Statistical inference and variational methods for lineage-resolved single-cell data
 - Cell fate decision processes, developmental dynamics, and tumor evolution
 - Endogenous and engineered lineage tracing, including mitochondrial DNA variants and CRISPR-based lineage records
-
-I am based in Shenzhen and Xiamen, working with Prof. Da Zhou and Dr. Zheng Hu.
