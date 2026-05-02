@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Probability Theory and Mathematical Statistics, Xiamen University, 2022-2026 expected
+* PhD in Probability Theory and Mathematical Statistics, Xiamen University, 2022-2026
   * Thesis: Dynamical Modeling and Cell Fate Inference from Single-Cell Multimodal Lineage Tracing Data
   * Advisor: Prof. Da Zhou
 * MS in Probability Theory and Mathematical Statistics, Xiamen University, 2019-2022
@@ -21,7 +21,7 @@ Education
 Work experience
 ======
 * Visiting Research Student, Shenzhen Institutes of Advanced Technology, 2020-2026
-  * Advisor: Dr. Zheng Hu
+  * Advisor: Prof. Zheng Hu
   * Conducted research on lineage tracing and single-cell dynamics.
   * Developed stochastic models integrating phylogeny and transcriptomics.
   
