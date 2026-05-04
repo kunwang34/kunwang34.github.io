@@ -6,7 +6,6 @@ This repository contains Kun Wang's academic homepage built with the Academic Pa
 
 - `_pages/about.md`: homepage content
 - `_publications/`: publication entries
-- `_portfolio/`: project entries
 - `_pages/cv.md`: CV page
 - `files/Kun_Wang_CV.pdf`: downloadable CV
 
