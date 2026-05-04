@@ -27,7 +27,7 @@ Internship
   
 Skills
 ======
-* Programming: Python, PyTorch, Pyro, PyMC, R, Seurat, MATLAB, Mathematica
+* Programming: Python (PyTorch, Pyro, PyMC), R (Seurat), MATLAB, Mathematica
 * Research areas: stochastic dynamical modeling, variational inference, single-cell lineage tracing, transcriptomic analysis
 * Methods: probabilistic modeling, phylodynamics, lineage tree analysis, single-cell multimodal analysis
 
