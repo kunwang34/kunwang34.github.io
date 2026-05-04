@@ -18,7 +18,7 @@ Education
   * Advisor: Prof. Da Zhou
 * BS in Mathematics and Applied Mathematics, Ocean University of China, 2015-2019
 
-Work experience
+Internship
 ======
 * Visiting Research Student, Shenzhen Institutes of Advanced Technology, 2020-2026
   * Advisor: Prof. Zheng Hu
