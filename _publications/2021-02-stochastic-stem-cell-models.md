@@ -7,6 +7,7 @@ excerpt: "A mathematical comparison of asymmetric and symmetric stem cell divisi
 date: 2021-02-01
 venue: "Mathematical Biosciences"
 paperurl: "https://doi.org/10.1016/j.mbs.2021.108541"
+authors: "Zhijie Wu, Yuman Wang, <strong>Kun Wang</strong>, Da Zhou"
 citation: "Zhijie Wu, Yuman Wang, <strong>Kun Wang</strong>, Da Zhou. (2021). Stochastic stem cell models with mutation: A comparison of asymmetric and symmetric divisions. Mathematical Biosciences 332, 108541."
 ---
 
