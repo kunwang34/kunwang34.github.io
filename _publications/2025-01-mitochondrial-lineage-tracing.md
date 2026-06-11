@@ -7,6 +7,7 @@ excerpt: "A quantitative evaluation of mitochondrial DNA variants as endogenous 
 date: 2025-03-01
 venue: "Genome Biology"
 paperurl: "https://doi.org/10.1186/s13059-025-03540-7"
+pub_order: 4
 authors: "Xin Wang, <strong>Kun Wang</strong>, Weixing Zhang, Zhongjie Tang, Hao Zhang, Yuying Cheng, Da Zhou, Chao Zhang, Wen-Zhao Zhong, Qing Ma, Jin Xu, Zheng Hu"
 citation: "Xin Wang, <strong>Kun Wang</strong>, Weixing Zhang, Zhongjie Tang, Hao Zhang, Yuying Cheng, Da Zhou, Chao Zhang, Wen-Zhao Zhong, Qing Ma, Jin Xu, Zheng Hu. (2025). Clonal expansion dictates the efficacy of mitochondrial lineage tracing in single cells. Genome Biology 26(1), 70."
 ---
