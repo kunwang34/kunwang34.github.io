@@ -24,21 +24,10 @@ Internship
   * Advisor: Prof. Zheng Hu
   * Conducted research on lineage tracing and single-cell dynamics.
   * Developed stochastic models integrating phylogeny and transcriptomics.
-  
-Skills
-======
-* Programming: Python (PyTorch, Pyro, PyMC), R (Seurat), MATLAB, Mathematica
-* Research areas: stochastic dynamical modeling, variational inference, single-cell lineage tracing, transcriptomic analysis
-* Methods: probabilistic modeling, phylodynamics, lineage tree analysis, single-cell multimodal analysis
 
 Academic Service
 ======
-* Peer reviewer, BMC Bioinformatics, 2026
-
-Download
-======
-* [Curriculum vitae PDF](/files/Kun_Wang_CV.pdf)
-* [RenderCV HTML version](/files/Kun_Wang_CV.html)
+* Referee, BMC Bioinformatics, 2026
 
 Publications
 ======
