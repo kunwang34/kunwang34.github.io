@@ -31,6 +31,10 @@ Skills
 * Research areas: stochastic dynamical modeling, variational inference, single-cell lineage tracing, transcriptomic analysis
 * Methods: probabilistic modeling, phylodynamics, lineage tree analysis, single-cell multimodal analysis
 
+Academic Service
+======
+* Peer reviewer, BMC Bioinformatics, 2026
+
 Download
 ======
 * [Curriculum vitae PDF](/files/Kun_Wang_CV.pdf)

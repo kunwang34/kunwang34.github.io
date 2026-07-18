@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kun Wang"
+title                    : "Kun Wang, PhD"
 title_separator          : "-"
 name                     : &name "Kun Wang"
 description              : &description "Computational biology researcher working on stochastic modeling, lineage tracing, and single-cell developmental dynamics."
@@ -24,9 +24,9 @@ repository               : "kunwang34/kunwang34.github.io"
 author:
   # Biographic information
   avatar           : "IMG_7009.JPG"
-  name             : "Kun Wang"
+  name             : "Kun Wang, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Computational biology researcher | Stochastic modeling & single-cell lineage dynamics"
+  bio              : "Computational biologist, PhD | Stochastic modeling & single-cell lineage dynamics"
   location         : "Shenzhen, Guangdong"
   employer         : "Xiamen University / Shenzhen Institutes of Advanced Technology"
   uri              : # URL
